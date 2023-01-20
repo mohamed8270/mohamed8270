@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ibrahimrasith@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wjF9hdEXHo7aRCsvJfDiDMrBrCP4sHKp/view?usp=sharing](https://drive.google.com/file/d/1wjF9hdEXHo7aRCsvJfDiDMrBrCP4sHKp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AWKV1e4tMSkud9OMkV8IuVqoYxkZ8T0X/view?usp=share_link](https://drive.google.com/file/d/1wjF9hdEXHo7aRCsvJfDiDMrBrCP4sHKp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
