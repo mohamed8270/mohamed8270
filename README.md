@@ -20,12 +20,12 @@
 
 - 📫 How to reach me **ibrahimrasith@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AWKV1e4tMSkud9OMkV8IuVqoYxkZ8T0X/view?usp=share_link](https://drive.google.com/file/d/1wjF9hdEXHo7aRCsvJfDiDMrBrCP4sHKp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AWKV1e4tMSkud9OMkV8IuVqoYxkZ8T0X/view?usp=share_link](https://drive.google.com/file/d/1AWKV1e4tMSkud9OMkV8IuVqoYxkZ8T0X/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ibrahim" height="30" width="40" /></a>
-<a href="https://instagram.com/i_n_o_c_e_n_t_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_n_o_c_e_n_t_ibrahim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ibrahimrasith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_n_o_c_e_n_t_ibrahim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ibu ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibu ux" height="30" width="40" /></a>
 </p>
 
