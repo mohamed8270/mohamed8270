@@ -29,7 +29,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ibrahimrasith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibrahimrasith" /></a><a href="https://ko-fi.com/ibrahimrasith"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ibrahimrasith" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed8270&show_icons=true&locale=en&layout=compact" alt="mohamed8270" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed8270&show_icons=true&locale=en" alt="mohamed8270" /></p>
-
