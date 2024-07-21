@@ -1,4 +1,4 @@
-![master](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYpv6ewWacrzOgyCZ_v1sr4gkrfHkN3cb8Q&s)
+![master](https://cdnwp.griddynamics.com/wp-content/uploads/2024/01/sasha_kto_mobile_application_cross-platform_tech_migration_abst_3995019f-1d83-4b35-aead-2fd0e9e88d95-1--1-.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Cross Platform Developer from India</h3>
 
