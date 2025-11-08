@@ -7,7 +7,7 @@ I'm a digital product **designer and developer** 💻 focusing on crafting user 
 - 🔭 Working as an **Cross Platform Developer**.
 - 👯 I’m looking to collaborate on **Mobile, Web and Software Problems**.
 - 🎓 Bachelor's in Electronics and Communication, CGPA of 83%.
-- 👨‍💻 Check out my recent activity at [LinkedIn]([https://ibu-ux.web.app/](https://www.linkedin.com/in/mohamed-ibrahim-8801591aa/)).
+- 👨‍💻 Check out my recent activity at [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-8801591aa/).
 - 💬 Ask me about **Dart, Javascript, Typescript**.
 - 📫 How to reach me **ibrahimrasith@gmail.com**.
 - 💻 With 4 years' electronics and communication education and 3 years' development working experience.
