@@ -1,4 +1,5 @@
 <h1 align="start">Hello there 👋</h1>
+
 ![master](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <p fontsize="10px">I'm a digital product **designer and developer** 💻 focusing on crafting user experiences and **design systems for software, web, and mobile products ⚡**. I'm passionate about applying consumer psychology for an interaction science-backed approach 🔸. Currently **researching Human-Computer Interaction 🧐**.</p>
 
