@@ -1,7 +1,7 @@
 <h1 align="start">Hello there 👋</h1>
 
 ![master](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-<p fontsize="10px">I'm a digital product **designer and developer** 💻 focusing on crafting user experiences and **design systems for software, web, and mobile products ⚡**. I'm passionate about applying consumer psychology for an interaction science-backed approach 🔸. Currently **researching Human-Computer Interaction 🧐**.</p>
+I'm a digital product **designer and developer** 💻 focusing on crafting user experiences and **design systems for software, web, and mobile products ⚡**. I'm passionate about applying consumer psychology for an interaction science-backed approach 🔸. Currently **researching Human-Computer Interaction 🧐**.
 
 - 🧐 Interested in full-stack. Recent focus on **Design Systems**.
 - 🔭 Working as an **Cross Platform Developer**.
@@ -11,7 +11,7 @@
 - 💬 Ask me about **Dart, Javascript, Typescript**.
 - 📫 How to reach me **ibrahimrasith@gmail.com**.
 - 💻 With 4 years' electronics and communication education and 3 years' development working experience.
-- 📄 Know about my experiences in my [resume]().
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1gHcz9gLL4jsVVc-VSpBbHR8HqTPWaJQe/view?usp=sharing).
 - ✍🏻 I share my personal thoughts on Programming & Tech in my [YouTube Channel](https://youtube.com/@ibuux?si=QN1TtYWtAEDjk5PS).
 - 🎙️ Listen to my podcast on scaling a mobile app to enterprise level in [Spotify](https://open.spotify.com/show/0FXGa6q3CZLeBHKJPuvxTq?si=ad31017d3dad4beb).
 
