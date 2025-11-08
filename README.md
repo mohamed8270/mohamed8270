@@ -9,9 +9,9 @@ I'm a digital product **designer and developer** 💻 focusing on crafting user 
 - 🎓 Bachelor's in Electronics and Communication, CGPA of 83%.
 - 👨‍💻 Check out my recent activity at [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-8801591aa/).
 - 💬 Ask me about **Dart, Javascript, Typescript**.
-- 📫 How to reach me **ibrahimrasith@gmail.com**.
+- 📫 Contact me for collaboration or software solutions **ibrahimrasith@gmail.com**.
 - 💻 With 4 years' electronics and communication education and 3 years' development working experience.
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1gHcz9gLL4jsVVc-VSpBbHR8HqTPWaJQe/view?usp=sharing).
+- 📄 Enter my professional space in my [resume](https://drive.google.com/file/d/1gHcz9gLL4jsVVc-VSpBbHR8HqTPWaJQe/view?usp=sharing).
 - ✍🏻 I share my personal thoughts on Programming & Tech in my [YouTube Channel](https://youtube.com/@ibuux?si=QN1TtYWtAEDjk5PS).
 - 🎙️ Listen to my podcast on scaling a mobile app to enterprise level in [Spotify](https://open.spotify.com/show/0FXGa6q3CZLeBHKJPuvxTq?si=ad31017d3dad4beb).
 
